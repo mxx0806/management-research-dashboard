@@ -1,2 +1,16 @@
-# management-research-dashboard
-ç®¡ç†ç ”ç©¶æ–¹æ³•è®ºè¯¾ç¨‹å¯¹æ¯”åˆ†æžä»ªè¡¨ç›˜ï¼ˆé€‰è¯¾æ”»ç•¥ï¼‰
+# ¹ÜÀíÑÐ¾¿·½·¨ÂÛ¿Î³Ì¶Ô±È·ÖÎöÒÇ±íÅÌ
+
+ÕâÊÇÒ»¸ö»ùÓÚ20ËùË«Ò»Á÷¸ßÐ£¡¶¹ÜÀíÑÐ¾¿·½·¨ÂÛ¡·¿Î³ÌµÄ½»»¥Ê½Êý¾Ý·ÖÎöÒÇ±íÅÌ¡£
+
+## ¹¦ÄÜÌØµã
+- 20Ëù¸ßÐ£¿Î³ÌÊý¾Ý¶Ô±È
+- ½»»¥Ê½Í¼±íºÍÉ¸Ñ¡
+- 16ÖÜÑ§Ï°Â·Ïß¹æ»®
+- Èí¼þÑ§Ï°ºÍ¿¼ºË·ÖÎö
+
+## Ê¹ÓÃ·½·¨
+1. ±¾µØÔËÐÐ£º`streamlit run app.py`
+2. ÔÆ¶Ë·ÃÎÊ£º²¿Êðµ½Streamlit Cloud
+
+## Êý¾ÝÀ´Ô´
+ºì×éºÍÀ¶×é¹²ÊÕ¼¯ÁË20Ëù¸ßÐ£µÄ¿Î³ÌÊý¾Ý
