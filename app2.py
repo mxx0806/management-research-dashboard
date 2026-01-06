@@ -508,7 +508,7 @@ elif page == "⏰ 学时与学分分析":
             size="课堂规模",
             hover_name="高校",
             title="学时与学分关系散点图",
-            trendline="ols",
+            # trendline="ols",
             trendline_scope="overall"
         )
         st.plotly_chart(fig4, width='stretch', use_container_width=True)
@@ -898,7 +898,7 @@ elif page == "📝 考核方式对比":
                 y="期末成绩占比",
                 hover_name="高校",
                 title="平时-期末成绩权重分布",
-                trendline="ols"
+                # trendline="ols"
             )
             st.plotly_chart(fig2, width='stretch', use_container_width=True)
 
@@ -1917,4 +1917,5 @@ st.markdown("""
     <p>📚 管理研究方法论课程对比分析项目 | 版本 v2.1 | 最后更新: 2026年1月5日</p>
     <p>👥 开发团队: 红组 & 蓝组 | 📧 反馈联系: course-feedback@example.com</p>
 </div>
+
 """, unsafe_allow_html=True)
